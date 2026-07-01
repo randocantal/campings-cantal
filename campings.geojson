@@ -13,7 +13,10 @@
       "properties": {
         "name": "Camping municipal Le Pré des Bains",
         "adresse": "",
-        "commune": "Laroquebrou"
+        "commune": "Laroquebrou",
+        "telephone": "04 71 46 02 84",
+        "email": "mairie@laroquebrou.fr",
+        "website": "http://www.laroquebrou.fr"
       }
     },
     {
@@ -28,7 +31,10 @@
       "properties": {
         "name": "Camping Moulin de Chaules",
         "adresse": "",
-        "commune": "Saint-Constant-Fournoulès"
+        "commune": "Saint-Constant-Fournoulès",
+        "telephone": "04 71 49 11 02",
+        "email": "camping@moulin-de-chaules.com",
+        "website": "http://www.moulin-de-chaules.com"
       }
     },
     {
@@ -43,7 +49,10 @@
       "properties": {
         "name": "Aire naturelle Les Érables",
         "adresse": "",
-        "commune": "Calvinet"
+        "commune": "Calvinet",
+        "telephone": "04 71 49 94 32",
+        "email": "mairie@puycapel.fr",
+        "website": "https://puycapel.fr/"
       }
     },
     {
@@ -58,7 +67,10 @@
       "properties": {
         "name": "Camping municipal Le Vert",
         "adresse": "",
-        "commune": "Maurs"
+        "commune": "Maurs",
+        "telephone": "04 71 49 00 32",
+        "email": "camping@ville-maurs.fr",
+        "website": "http://www.campinglevert-maurs.fr"
       }
     },
     {
@@ -73,7 +85,10 @@
       "properties": {
         "name": "Camping municipal La Grangeotte",
         "adresse": "",
-        "commune": "Montsalvy"
+        "commune": "Montsalvy",
+        "telephone": "04 71 49 20 10",
+        "email": "mairie@montsalvy.fr",
+        "website": "http://www.montsalvy.fr"
       }
     },
     {
@@ -88,7 +103,10 @@
       "properties": {
         "name": "Camping Coursavy",
         "adresse": "",
-        "commune": "Cassaniouze"
+        "commune": "Cassaniouze",
+        "telephone": "04 71 49 97 70",
+        "email": "info@campingcoursavy.com",
+        "website": "http://www.campingcoursavy.com"
       }
     },
     {
@@ -103,7 +121,10 @@
       "properties": {
         "name": "Camping municipal Le Moulègre",
         "adresse": "",
-        "commune": "Boisset"
+        "commune": "Boisset",
+        "telephone": "04 71 62 20 97",
+        "email": "communeboisset@wanadoo.fr",
+        "website": "https://commune-boisset-cantal.fr/"
       }
     },
     {
@@ -118,7 +139,10 @@
       "properties": {
         "name": "Camping municipal L'Étang aux Hirondelles",
         "adresse": "Rue du Stade",
-        "commune": "Marcolès"
+        "commune": "Marcolès",
+        "telephone": "04 71 46 98 98",
+        "email": "mairie-marcoles@wanadoo.fr",
+        "website": "http://www.marcoles.fr"
       }
     },
     {
@@ -133,7 +157,10 @@
       "properties": {
         "name": "Camping municipal Les Parrines",
         "adresse": "Rue du Camping",
-        "commune": "Saint-Mamet-la-Salvetat"
+        "commune": "Saint-Mamet-la-Salvetat",
+        "telephone": "04 71 64 75 21",
+        "email": "campingstmamet15@hotmail.fr",
+        "website": "http://www.stmamet-lasalvetat.com"
       }
     },
     {
@@ -148,7 +175,10 @@
       "properties": {
         "name": "Camping de la Ferme de Viescamp",
         "adresse": "15 avenue des Tilleuls",
-        "commune": "Le Rouget-Pers"
+        "commune": "Le Rouget-Pers",
+        "telephone": "06 20 57 88 19",
+        "email": "lacaze@viescampers.com",
+        "website": "http://www.viescampers.com"
       }
     },
     {
@@ -163,7 +193,10 @@
       "properties": {
         "name": "Camping Les Rives du Lac",
         "adresse": "",
-        "commune": "Saint-Gérons"
+        "commune": "Saint-Gérons",
+        "telephone": "06 25 34 62 89",
+        "email": "info@lesrivesdulac.fr",
+        "website": "http://www.lesrivesdulac.fr"
       }
     },
     {
@@ -178,7 +211,10 @@
       "properties": {
         "name": "Domaine La Plage du Garoustel",
         "adresse": "",
-        "commune": "Saint-Gérons"
+        "commune": "Saint-Gérons",
+        "telephone": "06 21 63 06 86",
+        "email": "accueil@camping-legaroustel.fr",
+        "website": "http://www.camping-legaroustel.fr"
       }
     },
     {
@@ -193,7 +229,10 @@
       "properties": {
         "name": "Auberge La Normandie",
         "adresse": "",
-        "commune": "Junhac"
+        "commune": "Junhac",
+        "telephone": "06 22 94 87 72",
+        "email": "ferme.auberge.normandie@gmail.com",
+        "website": "http://www.daims.fr"
       }
     },
     {
@@ -208,7 +247,10 @@
       "properties": {
         "name": "Auberge de Mourjou",
         "adresse": "16 rue du Pélou",
-        "commune": "Mourjou"
+        "commune": "Mourjou",
+        "telephone": "04 71 48 25 47",
+        "email": "aubergedemourjou@kara-asatryan.com",
+        "website": ""
       }
     },
     {
@@ -223,7 +265,10 @@
       "properties": {
         "name": "Ferme de séjour de Martory",
         "adresse": "",
-        "commune": "Leynhac"
+        "commune": "Leynhac",
+        "telephone": "04 71 43 61 86",
+        "email": "info@ferme-de-martory.com",
+        "website": "http://www.ferme-de-martory.com"
       }
     },
     {
@@ -238,7 +283,10 @@
       "properties": {
         "name": "Gîte Hôtel Restaurant CRUZEL",
         "adresse": "",
-        "commune": "Saint-Étienne-de-Maurs"
+        "commune": "Saint-Étienne-de-Maurs",
+        "telephone": "04 71 46 75 04",
+        "email": "henri@hotrestocruzel.fr",
+        "website": "https://www.hotel-cruzel.com/"
       }
     },
     {
@@ -253,7 +301,10 @@
       "properties": {
         "name": "Hôtel La Terrasse",
         "adresse": "",
-        "commune": "Vieillevie"
+        "commune": "Vieillevie",
+        "telephone": "04 71 49 94 00",
+        "email": "info@hotel-terrasse.com",
+        "website": "http://www.hotel-terrasse.com"
       }
     },
     {
@@ -268,7 +319,10 @@
       "properties": {
         "name": "Hôtel L'Auberge Fleurie",
         "adresse": "",
-        "commune": "Montsalvy"
+        "commune": "Montsalvy",
+        "telephone": "04 71 49 20 02",
+        "email": "info@auberge-fleurie.com",
+        "website": "http://www.auberge-fleurie.com"
       }
     },
     {
@@ -283,7 +337,10 @@
       "properties": {
         "name": "Village Vacances Camping Paradis - La Gineste",
         "adresse": "",
-        "commune": "Arnac"
+        "commune": "Arnac",
+        "telephone": "04 71 62 91 90",
+        "email": "contact@village-vacances-cantal.com",
+        "website": "https://www.village-vacances-cantal.com/"
       }
     },
     {
@@ -298,7 +355,10 @@
       "properties": {
         "name": "Domaine La Châtaigneraie",
         "adresse": "",
-        "commune": "Maurs"
+        "commune": "Maurs",
+        "telephone": "04 71 46 25 00",
+        "email": "info@vacances-chataigneraie.com",
+        "website": "http://www.vacances-chataigneraie.com"
       }
     },
     {
@@ -313,7 +373,10 @@
       "properties": {
         "name": "Le Lac des Estives",
         "adresse": "Le Lac",
-        "commune": "Montgreleix"
+        "commune": "Montgreleix",
+        "telephone": "04 71 78 84 65",
+        "email": "villagevacanceslacdesestives@gmail.com",
+        "website": "http://www.lac-estives.com"
       }
     },
     {
@@ -328,7 +391,10 @@
       "properties": {
         "name": "Gite d'Étape de Montgreleix",
         "adresse": "Le Bourg",
-        "commune": "Montgreleix"
+        "commune": "Montgreleix",
+        "telephone": "06 95 73 39 73",
+        "email": "lamotte.elisabeth@hotmail.fr",
+        "website": ""
       }
     },
     {
@@ -343,7 +409,10 @@
       "properties": {
         "name": "Auberge des Voyageurs",
         "adresse": "12 rue du Lavoir",
-        "commune": "Cassaniouze"
+        "commune": "Cassaniouze",
+        "telephone": "06 78 31 38 21",
+        "email": "cedric.marcenac@orange.fr",
+        "website": ""
       }
     },
     {
@@ -358,7 +427,10 @@
       "properties": {
         "name": "Gîte Hip Hop / Rock / Jazz espace camping",
         "adresse": "11 Rue des Docteurs Roche",
-        "commune": "Riom-ès-Montagnes"
+        "commune": "Riom-ès-Montagnes",
+        "telephone": "09 67 78 05 71",
+        "email": "lesedour15@gmail.com",
+        "website": "http://campingitesriomcantal.com/"
       }
     },
     {
@@ -373,7 +445,10 @@
       "properties": {
         "name": "Gîte Dali Klimt",
         "adresse": "Grange du Sedour",
-        "commune": "Riom-ès-Montagnes"
+        "commune": "Riom-ès-Montagnes",
+        "telephone": "09 67 78 05 71",
+        "email": "lesedour15@gmail.com",
+        "website": "http://campingitesriomcantal.com/"
       }
     },
     {
@@ -388,7 +463,10 @@
       "properties": {
         "name": "Gîte d'étape de Lugarde",
         "adresse": "1 rue des écoles",
-        "commune": "Lugarde"
+        "commune": "Lugarde",
+        "telephone": "04 71 78 40 15",
+        "email": "mairie.lugarde@wanadoo.fr",
+        "website": "http://www.lugarde.fr"
       }
     },
     {
@@ -403,7 +481,10 @@
       "properties": {
         "name": "Camping / Gîtes Le Sédour",
         "adresse": "Route de Condat",
-        "commune": "Riom-ès-Montagnes"
+        "commune": "Riom-ès-Montagnes",
+        "telephone": "09 67 78 05 71",
+        "email": "lesedour15@gmail.com",
+        "website": "http://campingitesriomcantal.com/"
       }
     },
     {
@@ -418,7 +499,10 @@
       "properties": {
         "name": "Camping Les Monts du Cantal",
         "adresse": "7 Route de chabraire",
-        "commune": "Le Claux"
+        "commune": "Le Claux",
+        "telephone": "07 66 37 59 72",
+        "email": "campinglesmontsducantal@onlycamp.frr",
+        "website": "http://www.camping-le-claux.fr"
       }
     },
     {
@@ -433,7 +517,10 @@
       "properties": {
         "name": "Camping Municipal La Biaugue",
         "adresse": "",
-        "commune": "Cheylade"
+        "commune": "Cheylade",
+        "telephone": "04 71 78 90 67",
+        "email": "mairie.cheylade@wanadoo.fr",
+        "website": "http://www.cheylade.fr"
       }
     },
     {
@@ -448,7 +535,10 @@
       "properties": {
         "name": "Camping OnlyCamp Le Pioulat",
         "adresse": "",
-        "commune": "Trizac"
+        "commune": "Trizac",
+        "telephone": "07 67 24 28 24",
+        "email": "campinglepioulat@onlycamp.fr",
+        "website": ""
       }
     },
     {
@@ -463,7 +553,10 @@
       "properties": {
         "name": "Camping Municipal d'Apchon",
         "adresse": "14 rue du Coudert",
-        "commune": "Apchon"
+        "commune": "Apchon",
+        "telephone": "04 71 78 03 98",
+        "email": "mairie.apchon@wanadoo.fr",
+        "website": ""
       }
     },
     {
@@ -478,7 +571,10 @@
       "properties": {
         "name": "Chambres d'hôtes Lavialle",
         "adresse": "",
-        "commune": "Le Claux"
+        "commune": "Le Claux",
+        "telephone": "04 71 78 96 67",
+        "email": "jeanlouisvernet@orange.fr",
+        "website": ""
       }
     },
     {
@@ -493,7 +589,10 @@
       "properties": {
         "name": "La Ferme d'Elisariane",
         "adresse": "323 impasse Marie Galvain",
-        "commune": "Saint-Hippolyte"
+        "commune": "Saint-Hippolyte",
+        "telephone": "06 23 50 01 63",
+        "email": "elisariane@orange.fr",
+        "website": ""
       }
     },
     {
@@ -508,7 +607,10 @@
       "properties": {
         "name": "Chambres d'hôtes Résidence Hauteclair",
         "adresse": "10 rue du Bailli",
-        "commune": "Apchon"
+        "commune": "Apchon",
+        "telephone": "04 71 78 20 07",
+        "email": "adypinckers@hotmail.com",
+        "website": "http://www.hauteclair.be"
       }
     },
     {
@@ -523,7 +625,10 @@
       "properties": {
         "name": "Chambres d'hôtes L'oustalou",
         "adresse": "26 Rue du champ de foire",
-        "commune": "Apchon"
+        "commune": "Apchon",
+        "telephone": "06 80 88 26 50",
+        "email": "dervin.beatrice@live.fr",
+        "website": "https://www.pourlesvacances.com"
       }
     },
     {
@@ -538,7 +643,10 @@
       "properties": {
         "name": "Chambres d'hôtes du Limon",
         "adresse": "",
-        "commune": "Cheylade"
+        "commune": "Cheylade",
+        "telephone": "04 71 78 58 13",
+        "email": "gitedulimon@free.fr",
+        "website": "http://gitedulimon.free.fr"
       }
     },
     {
@@ -553,7 +661,10 @@
       "properties": {
         "name": "Chambre d'hôtes Ferme d'Espinasse",
         "adresse": "",
-        "commune": "Collandres"
+        "commune": "Collandres",
+        "telephone": "04 71 67 98 36",
+        "email": "regine.roche-mercier@educagri.fr",
+        "website": ""
       }
     },
     {
@@ -568,7 +679,10 @@
       "properties": {
         "name": "Auberge le Cheylet",
         "adresse": "25 rue du Champs de Foire",
-        "commune": "Apchon"
+        "commune": "Apchon",
+        "telephone": "06 61 61 30 56",
+        "email": "aubergelecheylet15@outlook.fr",
+        "website": ""
       }
     },
     {
@@ -583,7 +697,10 @@
       "properties": {
         "name": "Hôtel Le Saint-Georges",
         "adresse": "5 rue du Capitaine Chevalier",
-        "commune": "Riom-ès-Montagnes"
+        "commune": "Riom-ès-Montagnes",
+        "telephone": "04 71 78 00 15",
+        "email": "info@hotel-saint-georges.com",
+        "website": "http://www.hotel-saint-georges.com"
       }
     },
     {
@@ -598,7 +715,10 @@
       "properties": {
         "name": "The Originals Hôtel le Lutéa",
         "adresse": "Rue du Champ de Foire",
-        "commune": "Riom-ès-Montagnes"
+        "commune": "Riom-ès-Montagnes",
+        "telephone": "04 71 78 19 43",
+        "email": "hotel.lutea@gmail.com",
+        "website": "https://www.hotel-lutea.fr/fr"
       }
     },
     {
@@ -613,7 +733,10 @@
       "properties": {
         "name": "Grand Hôtel de la Vallée",
         "adresse": "12 route du Puy Mary",
-        "commune": "Cheylade"
+        "commune": "Cheylade",
+        "telephone": "04 43 05 13 41",
+        "email": "sasjordan-davidrichard@bbox.fr",
+        "website": "http://www.hotel-cheylade.fr"
       }
     },
     {
@@ -628,7 +751,10 @@
       "properties": {
         "name": "Naturessime Eco Village & Spa",
         "adresse": "3 route du limon",
-        "commune": "Cheylade"
+        "commune": "Cheylade",
+        "telephone": "06 24 43 23 11",
+        "email": "naturessime@orange.fr",
+        "website": "http://www.naturessime.fr"
       }
     },
     {
@@ -643,7 +769,10 @@
       "properties": {
         "name": "Village Vacances du Lac de Menet",
         "adresse": "18 route autour du lac",
-        "commune": "Menet"
+        "commune": "Menet",
+        "telephone": "04 71 67 97 66",
+        "email": "contact@village-vacances-auvergne-lacdemenet.com",
+        "website": "http://www.village-vacances-auvergne-lacdemenet.com"
       }
     },
     {
@@ -658,7 +787,10 @@
       "properties": {
         "name": "Auberge des Volcans",
         "adresse": "1 route des camps",
-        "commune": "Saint-Chamant"
+        "commune": "Saint-Chamant",
+        "telephone": "09 83 09 72 05",
+        "email": "aubergedesvolcans15@gmail.com",
+        "website": ""
       }
     },
     {
@@ -673,7 +805,10 @@
       "properties": {
         "name": "Le Bailliage",
         "adresse": "31 rue Notre-Dame",
-        "commune": "Salers"
+        "commune": "Salers",
+        "telephone": "04 71 40 71 95",
+        "email": "info@salers-hotel-bailliage.com",
+        "website": "http://www.salers-hotel-bailliage.com"
       }
     },
     {
@@ -688,7 +823,10 @@
       "properties": {
         "name": "Les Remparts",
         "adresse": "32 avenue de Barrouze",
-        "commune": "Salers"
+        "commune": "Salers",
+        "telephone": "04 71 40 70 33",
+        "email": "hoteldesremparts@yahoo.fr",
+        "website": "http://www.salers-hotel-remparts.com"
       }
     },
     {
@@ -703,7 +841,10 @@
       "properties": {
         "name": "Les Voyageurs",
         "adresse": "8 rue St-Germain",
-        "commune": "Le Falgoux"
+        "commune": "Le Falgoux",
+        "telephone": "04 71 69 51 59",
+        "email": "roystephan@neuf.fr",
+        "website": "https://www.hotel-lefalgoux.fr/"
       }
     },
     {
@@ -718,7 +859,10 @@
       "properties": {
         "name": "Auberge de Tournemire",
         "adresse": "15 rue Edouard Marty",
-        "commune": "Tournemire"
+        "commune": "Tournemire",
+        "telephone": "04 71 47 61 28",
+        "email": "louisfert@wanadoo.fr",
+        "website": "http://www.aubergedetournemire.com"
       }
     },
     {
@@ -733,7 +877,10 @@
       "properties": {
         "name": "Le Beffroi",
         "adresse": "17 rue du Beffroi",
-        "commune": "Salers"
+        "commune": "Salers",
+        "telephone": "04 71 40 70 11",
+        "email": "lebeffroi15@gmail.com",
+        "website": "https://www.hotelrestaurantlebeffroi.fr/"
       }
     },
     {
@@ -748,7 +895,10 @@
       "properties": {
         "name": "La Source du Mont",
         "adresse": "9 rue du Foirail",
-        "commune": "Saint-Martin-Valmeroux"
+        "commune": "Saint-Martin-Valmeroux",
+        "telephone": "04 71 69 28 55",
+        "email": "lasourcedumont@wanadoo.fr",
+        "website": ""
       }
     },
     {
@@ -763,7 +913,10 @@
       "properties": {
         "name": "Le Grand Gîte - Moments Nature",
         "adresse": "Le Cros",
-        "commune": "Sainte-Eulalie"
+        "commune": "Sainte-Eulalie",
+        "telephone": "04 71 69 44 28",
+        "email": "moments.nature@gmail.com",
+        "website": "http://www.momentsnature.com"
       }
     },
     {
@@ -778,7 +931,10 @@
       "properties": {
         "name": "Ferme de Lamourio",
         "adresse": "13 lamourio",
-        "commune": "Saint-Cernin"
+        "commune": "Saint-Cernin",
+        "telephone": "04 71 47 67 37",
+        "email": "paul.fererol15@orange.fr",
+        "website": ""
       }
     },
     {
@@ -793,7 +949,10 @@
       "properties": {
         "name": "Les Sorbiers",
         "adresse": "14 -16 rue du petit chemin",
-        "commune": "Anglards-de-Salers"
+        "commune": "Anglards-de-Salers",
+        "telephone": "04 71 40 02 87",
+        "email": "geraldine.ribes@hotmail.fr",
+        "website": ""
       }
     },
     {
@@ -808,7 +967,10 @@
       "properties": {
         "name": "La Chambre de Roche",
         "adresse": "Lieu Dit",
-        "commune": "Saint-Bonnet-de-Salers"
+        "commune": "Saint-Bonnet-de-Salers",
+        "telephone": "04 71 67 93 83",
+        "email": "contact@lachambrederoche.com",
+        "website": "http://www.lachambrederoche.com"
       }
     },
     {
@@ -823,7 +985,10 @@
       "properties": {
         "name": "Domaine de la Chaux de Revel Chambre d'hôtes",
         "adresse": "La Chaux de Revel",
-        "commune": "Saint-Martin-Valmeroux"
+        "commune": "Saint-Martin-Valmeroux",
+        "telephone": "04 71 40 68 10",
+        "email": "pascal.montaz@gmail.com",
+        "website": "http://www.domainedelachauxderevel.com"
       }
     },
     {
@@ -838,7 +1003,10 @@
       "properties": {
         "name": "La Fournio",
         "adresse": "18",
-        "commune": "Chaussenac"
+        "commune": "Chaussenac",
+        "telephone": "04 71 69 02 68",
+        "email": "albert.charles@wanadoo.fr",
+        "website": "http://www.lafournio.fr"
       }
     },
     {
@@ -853,7 +1021,10 @@
       "properties": {
         "name": "Les Sagranières",
         "adresse": "44, rue Notre-Dame",
-        "commune": "Salers"
+        "commune": "Salers",
+        "telephone": "04 71 40 70 50",
+        "email": "info@le-sagranier.com",
+        "website": "http://www.le-sagranier.com"
       }
     },
     {
@@ -868,7 +1039,10 @@
       "properties": {
         "name": "La Maison de Chablat",
         "adresse": "1216, route du gouffre de la monnaie",
-        "commune": "Saint-Martin-Cantalès"
+        "commune": "Saint-Martin-Cantalès",
+        "telephone": "04 71 44 60 50",
+        "email": "maisondechablat@orange.fr",
+        "website": ""
       }
     },
     {
@@ -883,7 +1057,10 @@
       "properties": {
         "name": "Guidon & Fourchette",
         "adresse": "17 Navaste",
-        "commune": "Saint-Bonnet-de-Salers"
+        "commune": "Saint-Bonnet-de-Salers",
+        "telephone": "04 71 68 65 79",
+        "email": "guidon-fourchette@orange.fr",
+        "website": ""
       }
     },
     {
@@ -898,7 +1075,10 @@
       "properties": {
         "name": "Lou Catou",
         "adresse": "136 rue de l'Aspre",
-        "commune": "Fontanges"
+        "commune": "Fontanges",
+        "telephone": "04 71 40 38 93",
+        "email": "catherine_frederic@orange.fr",
+        "website": "http://catherine-frederic.wixsite.com/monsite"
       }
     },
     {
@@ -913,7 +1093,10 @@
       "properties": {
         "name": "Auberge du Col de Néronne",
         "adresse": "2 col de Néronne",
-        "commune": "Saint-Paul-de-Salers"
+        "commune": "Saint-Paul-de-Salers",
+        "telephone": "04 43 05 18 31",
+        "email": "auberge.coldeneronne@gmail.com",
+        "website": "https://www.auberge-col-neronne.fr/"
       }
     },
     {
@@ -928,7 +1111,10 @@
       "properties": {
         "name": "Camping Le Moulin du Teinturier",
         "adresse": "9 rue de Montjoly",
-        "commune": "Saint-Martin-Valmeroux"
+        "commune": "Saint-Martin-Valmeroux",
+        "telephone": "04 71 69 49 92",
+        "email": "saintmartincamping15@gmail.com",
+        "website": "http://camping15140.free.fr"
       }
     },
     {
@@ -943,7 +1129,10 @@
       "properties": {
         "name": "Camping la Pierre Plate",
         "adresse": "Le Bourg",
-        "commune": "Fontanges"
+        "commune": "Fontanges",
+        "telephone": "04 71 40 71 49",
+        "email": "mairie.fontanges2@wanadoo.fr",
+        "website": "https://www.fontanges.fr/"
       }
     },
     {
@@ -958,7 +1147,10 @@
       "properties": {
         "name": "Aire naturelle le Chambon",
         "adresse": "8, Route du Col de Neronne",
-        "commune": "Le Falgoux"
+        "commune": "Le Falgoux",
+        "telephone": "04 71 69 51 28",
+        "email": "mairie.lefalgoux@wanadoo.fr",
+        "website": "https://www.lefalgoux.fr/"
       }
     },
     {
@@ -973,7 +1165,10 @@
       "properties": {
         "name": "Camping Pont du Rouffet",
         "adresse": "10 route du Pont du Rouffet",
-        "commune": "Saint-Martin-Cantalès"
+        "commune": "Saint-Martin-Cantalès",
+        "telephone": "04 71 69 42 76",
+        "email": "contact@campingpontdurouffet.fr",
+        "website": "http://www.campingpontdurouffet.fr"
       }
     },
     {
@@ -988,7 +1183,10 @@
       "properties": {
         "name": "Domaine du Lissart de Miège",
         "adresse": "La Bastide",
-        "commune": "Le Fau"
+        "commune": "Le Fau",
+        "telephone": "06 78 34 38 55",
+        "email": "evelyne.riol@orange.fr",
+        "website": ""
       }
     },
     {
@@ -1003,7 +1201,10 @@
       "properties": {
         "name": "Aire naturelle les Fraux",
         "adresse": "Rue des Marronniers",
-        "commune": "Anglards-de-Salers"
+        "commune": "Anglards-de-Salers",
+        "telephone": "04 71 40 00 02",
+        "email": "mairie@anglards-de-salers.fr",
+        "website": ""
       }
     },
     {
@@ -1018,7 +1219,10 @@
       "properties": {
         "name": "Camping le Mouriol",
         "adresse": "7 route du Puy-Mary",
-        "commune": "Salers"
+        "commune": "Salers",
+        "telephone": "04 71 40 73 09",
+        "email": "camping.mouriol.salers@orange.fr",
+        "website": "http://www.salers.fr"
       }
     },
     {
@@ -1033,7 +1237,10 @@
       "properties": {
         "name": "L'Echappée Verte",
         "adresse": "4, Allée de Triniac",
-        "commune": "Pleaux"
+        "commune": "Pleaux",
+        "telephone": "04 71 40 40 05",
+        "email": "contact@pleaux.fr",
+        "website": "http://www.camping-pleaux.fr"
       }
     },
     {
@@ -1048,7 +1255,10 @@
       "properties": {
         "name": "Hôtel Delmas",
         "adresse": "200 place de l'église",
-        "commune": "Lanobre"
+        "commune": "Lanobre",
+        "telephone": "04 71 40 30 95",
+        "email": "",
+        "website": ""
       }
     },
     {
@@ -1063,7 +1273,10 @@
       "properties": {
         "name": "Chambres et table d'hôtes Croque Lunes",
         "adresse": "6 chemin du Charlissou",
-        "commune": "Champs-sur-Tarentaine-Marchal"
+        "commune": "Champs-sur-Tarentaine-Marchal",
+        "telephone": "06 86 89 24 19",
+        "email": "croquelunes@free.fr",
+        "website": ""
       }
     },
     {
@@ -1078,7 +1291,10 @@
       "properties": {
         "name": "Chambres d'hôtes Artense Hôtes",
         "adresse": "282 route d'Auzaric",
-        "commune": "Lanobre"
+        "commune": "Lanobre",
+        "telephone": "06 40 25 34 59",
+        "email": "artense.hotes@gmail.com",
+        "website": ""
       }
     },
     {
@@ -1093,7 +1309,10 @@
       "properties": {
         "name": "Chambres et table d'hôtes Chez Marraine",
         "adresse": "4 route d'Ardit",
-        "commune": "Sauvat"
+        "commune": "Sauvat",
+        "telephone": "06 18 08 60 27",
+        "email": "chezmarraine@laposte.net",
+        "website": ""
       }
     },
     {
@@ -1108,7 +1327,10 @@
       "properties": {
         "name": "Chambres d'hôtes Champassis",
         "adresse": "2 Champassis",
-        "commune": "Vebret"
+        "commune": "Vebret",
+        "telephone": "04 71 40 23 57",
+        "email": "annie.jouve0844@orange.fr",
+        "website": ""
       }
     },
     {
@@ -1123,7 +1345,10 @@
       "properties": {
         "name": "Chambres d'hôtes Le Relais des Capucines",
         "adresse": "78 avenue de la Libération",
-        "commune": "Ydes"
+        "commune": "Ydes",
+        "telephone": "06 49 38 46 36",
+        "email": "lerelaisdescapucines@gmail.com",
+        "website": "http://lerelaisdescapucines-cantal.fr"
       }
     },
     {
@@ -1138,7 +1363,10 @@
       "properties": {
         "name": "Camping L'Air du Temps",
         "adresse": "1, La Barrière",
-        "commune": "Beaulieu"
+        "commune": "Beaulieu",
+        "telephone": "06 08 08 19 22",
+        "email": "campinglairdutemps@wanadoo.fr",
+        "website": "http://camping-ferme-cantal.com"
       }
     },
     {
@@ -1153,7 +1381,10 @@
       "properties": {
         "name": "Les Chalets du camping de Béringer",
         "adresse": "Montruc",
-        "commune": "Champagnac"
+        "commune": "Champagnac",
+        "telephone": "04 71 69 61 55",
+        "email": "contact@champagnac.fr",
+        "website": "https://champagnac.fr/aire-camping-car-park/"
       }
     },
     {
@@ -1168,7 +1399,10 @@
       "properties": {
         "name": "Camping de l'Écureuil",
         "adresse": "L'Écureuil",
-        "commune": "Champs-sur-Tarentaine-Marchal"
+        "commune": "Champs-sur-Tarentaine-Marchal",
+        "telephone": "04 71 78 71 85",
+        "email": "gbfabienne@free.fr",
+        "website": "https://www.campinglecureuil.com/"
       }
     },
     {
@@ -1183,7 +1417,10 @@
       "properties": {
         "name": "Camping de l'Étang",
         "adresse": "1 Mérigot",
-        "commune": "Champs-sur-Tarentaine-Marchal"
+        "commune": "Champs-sur-Tarentaine-Marchal",
+        "telephone": "06 82 91 65 62",
+        "email": "merigot15@outlook.fr",
+        "website": ""
       }
     },
     {
@@ -1198,7 +1435,10 @@
       "properties": {
         "name": "Camping municipal de La Tarentaine",
         "adresse": "6, rue du Pont de Lourseyre",
-        "commune": "Champs-sur-Tarentaine-Marchal"
+        "commune": "Champs-sur-Tarentaine-Marchal",
+        "telephone": "04 71 78 71 25",
+        "email": "contact@champs-marchal.org",
+        "website": "https://www.champs-marchal.org/office-de-tourisme_fr.html"
       }
     },
     {
@@ -1213,7 +1453,10 @@
       "properties": {
         "name": "Camping Huttopia Lac de la Siauve",
         "adresse": "Rue du camping",
-        "commune": "Lanobre"
+        "commune": "Lanobre",
+        "telephone": "04 71 40 31 85",
+        "email": "lacdelasiauve@huttopia.com",
+        "website": "https://europe.huttopia.com/site/lac-de-siauve/?utm_medium=annuaire&utm_source=tourisme_sumene_artense&utm_campaign=lac_de_la_siauve"
       }
     },
     {
@@ -1228,7 +1471,10 @@
       "properties": {
         "name": "Camping municipal de Bellevue",
         "adresse": "Complexe sportif de Bellevue",
-        "commune": "Saignes"
+        "commune": "Saignes",
+        "telephone": "04 71 40 62 80",
+        "email": "saignes.mairie@wanadoo.fr",
+        "website": "https://saignes15.fr/tourisme-et-loisirs/location-vacances-etou-gites-ruraux/"
       }
     },
     {
@@ -1243,7 +1489,10 @@
       "properties": {
         "name": "Camping municipal Les Pagues",
         "adresse": "17 rue du mentier",
-        "commune": "Saint-Pierre"
+        "commune": "Saint-Pierre",
+        "telephone": "04 71 69 62 14",
+        "email": "sejourstpierre@orange.fr",
+        "website": "https://www.mairie-saint-pierre.fr/hebergements-locations-saint-pierre"
       }
     },
     {
@@ -1258,7 +1507,10 @@
       "properties": {
         "name": "Camping municipal Les Bruyères",
         "adresse": "1 Pacher Daval",
-        "commune": "Trémouille"
+        "commune": "Trémouille",
+        "telephone": "04 71 78 77 44",
+        "email": "tourisme@tremouille.fr",
+        "website": "https://www.tremouille.fr/camping-tremouille-15-cantal-auvergne-rhone-alpes_fr.html"
       }
     },
     {
@@ -1273,7 +1525,10 @@
       "properties": {
         "name": "Camping Ferme de séjour",
         "adresse": "4  Verchalles soutro",
-        "commune": "Vebret"
+        "commune": "Vebret",
+        "telephone": "04 71 40 21 58",
+        "email": "guy-galvaing@wanadoo.fr",
+        "website": ""
       }
     },
     {
@@ -1288,7 +1543,10 @@
       "properties": {
         "name": "VVF Cantal Salers Vendes",
         "adresse": "1 cité de la mine",
-        "commune": "Bassignac"
+        "commune": "Bassignac",
+        "telephone": "04 71 69 71 81",
+        "email": "accueil.vendes-bassignac@vvfvillages.fr",
+        "website": "https://www.vvf.fr/villages-vacances/vacances-vendes-vvf-villages.html?startDate=&endDate=&adult=2&children=0&baby=0&animal=0"
       }
     },
     {
@@ -1303,7 +1561,10 @@
       "properties": {
         "name": "VVF Cantal Champs-sur-Tarentaine",
         "adresse": "Marchal Le Suc de Triviaux",
-        "commune": "Champs-sur-Tarentaine-Marchal"
+        "commune": "Champs-sur-Tarentaine-Marchal",
+        "telephone": "04 71 78 78 22",
+        "email": "accueil.champssurtarentaine@vvfvillages.fr",
+        "website": "https://www.vvf.fr/location-vacances/tourisme-cantal-champs-sur-tarentaine.html?gad_source=1&gclid=Cj0KCQiAh8OtBhCQARIsAIkWb68PWeYsR0e8SNdesDe-Vyc8PG0zC3-EeaDxtxOgBsWJToyyMLbJld8aAvEvEALw_wcB"
       }
     },
     {
@@ -1318,7 +1579,10 @@
       "properties": {
         "name": "L'Auberge des Montagnes",
         "adresse": "Le bourg",
-        "commune": "Pailherols"
+        "commune": "Pailherols",
+        "telephone": "04 71 47 57 01",
+        "email": "contact@laubergedesmontagnes.com",
+        "website": "http://www.auberge-des-montagnes.com"
       }
     },
     {
@@ -1333,7 +1597,10 @@
       "properties": {
         "name": "Bel Horizon",
         "adresse": "5 rue Paul Doumer",
-        "commune": "Vic-sur-Cère"
+        "commune": "Vic-sur-Cère",
+        "telephone": "04 71 47 50 06",
+        "email": "info@hotel-bel-horizon.com",
+        "website": "http://www.hotel-bel-horizon.com"
       }
     },
     {
@@ -1348,7 +1615,10 @@
       "properties": {
         "name": "Le Brunet",
         "adresse": "Le bourg",
-        "commune": "Saint-Jacques-des-Blats"
+        "commune": "Saint-Jacques-des-Blats",
+        "telephone": "04 71 47 05 86",
+        "email": "hotel.brunet@wanadoo.fr",
+        "website": "http://www.hotel-brunet.com"
       }
     },
     {
@@ -1363,7 +1633,10 @@
       "properties": {
         "name": "Hôtel des Bains",
         "adresse": "15 Avenue de la promenade",
-        "commune": "Vic-sur-Cère"
+        "commune": "Vic-sur-Cère",
+        "telephone": "04 71 47 50 16",
+        "email": "contact@arvernehotel.com",
+        "website": "http://www.arvernehotel.com"
       }
     },
     {
@@ -1378,7 +1651,10 @@
       "properties": {
         "name": "L'Elancèze",
         "adresse": "30 Grand'Rue",
-        "commune": "Thiézac"
+        "commune": "Thiézac",
+        "telephone": "04 71 47 00 22",
+        "email": "info@elanceze.com",
+        "website": "http://www.elanceze.com"
       }
     },
     {
@@ -1393,7 +1669,10 @@
       "properties": {
         "name": "Les Maisons de Montagne - Chez Marie",
         "adresse": "Le bourg",
-        "commune": "Pailherols"
+        "commune": "Pailherols",
+        "telephone": "04 71 47 57 01",
+        "email": "contact@hotel-chezmarie.com",
+        "website": "https://www.hotel-chezmarie.com/"
       }
     },
     {
@@ -1408,7 +1687,10 @@
       "properties": {
         "name": "Appart'Hôtel Le Griou",
         "adresse": "14 avenue Adrien Ruelle",
-        "commune": "Saint-Jacques-des-Blats"
+        "commune": "Saint-Jacques-des-Blats",
+        "telephone": "04 71 47 06 25",
+        "email": "hotel.legriou@outlook.fr",
+        "website": "https://www.hotel-griou.com"
       }
     },
     {
@@ -1423,7 +1705,10 @@
       "properties": {
         "name": "Le Val du Cantal",
         "adresse": "9 allée des Monts d'Auvergne",
-        "commune": "Polminhac"
+        "commune": "Polminhac",
+        "telephone": "04 71 23 02 01",
+        "email": "valducantal@villagefani.com",
+        "website": "http://www.villagefani.com"
       }
     },
     {
@@ -1438,7 +1723,10 @@
       "properties": {
         "name": "Le Beauséjour",
         "adresse": "4 avenue André Mercier",
-        "commune": "Vic-sur-Cère"
+        "commune": "Vic-sur-Cère",
+        "telephone": "04 71 47 50 27",
+        "email": "contact@beausejour-vic.fr",
+        "website": "http://www.beausejour-vic.fr"
       }
     },
     {
@@ -1453,7 +1741,10 @@
       "properties": {
         "name": "Family Hôtel",
         "adresse": "19 Avenue Emile Duclaux",
-        "commune": "Vic-sur-Cère"
+        "commune": "Vic-sur-Cère",
+        "telephone": "04 71 47 50 49",
+        "email": "resafamily@orange.fr",
+        "website": "http://www.family-hotel.fr"
       }
     },
     {
@@ -1468,7 +1759,10 @@
       "properties": {
         "name": "L'Auberge de la Sapinière",
         "adresse": "Le bourg",
-        "commune": "Cros-de-Ronesque"
+        "commune": "Cros-de-Ronesque",
+        "telephone": "06 09 95 19 30",
+        "email": "rourejl@aol.com",
+        "website": "https://auberge-sapiniere-cantal.fr/"
       }
     },
     {
@@ -1483,7 +1777,10 @@
       "properties": {
         "name": "L'Escoundillou",
         "adresse": "29-31 Route de la Gare",
-        "commune": "Saint-Jacques-des-Blats"
+        "commune": "Saint-Jacques-des-Blats",
+        "telephone": "04 71 47 06 42",
+        "email": "contact@hotel-escoundillou.com",
+        "website": "http://www.escoundillou.com"
       }
     },
     {
@@ -1498,7 +1795,10 @@
       "properties": {
         "name": "Le Saint Joseph",
         "adresse": "4 avenue du Barrez",
-        "commune": "Vic-sur-Cère"
+        "commune": "Vic-sur-Cère",
+        "telephone": "04 71 47 51 92",
+        "email": "hotel.st.joseph15800@gmail.com",
+        "website": ""
       }
     },
     {
@@ -1513,7 +1813,10 @@
       "properties": {
         "name": "Les Chazes",
         "adresse": "Les Chazes",
-        "commune": "Saint-Jacques-des-Blats"
+        "commune": "Saint-Jacques-des-Blats",
+        "telephone": "04 71 47 05 68",
+        "email": "info@hotel-des-chazes.com",
+        "website": "http://www.hotel-des-chazes.com"
       }
     },
     {
@@ -1528,7 +1831,10 @@
       "properties": {
         "name": "Le Castel du Cantal",
         "adresse": "Grand'Rue",
-        "commune": "Thiézac"
+        "commune": "Thiézac",
+        "telephone": "471230201",
+        "email": "info@fanihotels.com",
+        "website": "http://www.fanihotels.com"
       }
     },
     {
@@ -1543,7 +1849,10 @@
       "properties": {
         "name": "Auberge de Raulhac",
         "adresse": "Le bourg",
-        "commune": "Raulhac"
+        "commune": "Raulhac",
+        "telephone": "04 71 47 00 59",
+        "email": "aubergeraulhac@gmail.com",
+        "website": "http://www.aubergederaulhac.com"
       }
     },
     {
@@ -1558,7 +1867,10 @@
       "properties": {
         "name": "Camping la Bédisse",
         "adresse": "La Bédisse",
-        "commune": "Thiézac"
+        "commune": "Thiézac",
+        "telephone": "04 71 47 00 41",
+        "email": "campinglabedisse@gmail.com",
+        "website": "http://www.campinglabedisse.com"
       }
     },
     {
@@ -1573,7 +1885,10 @@
       "properties": {
         "name": "Camping des Blats",
         "adresse": "Route de la Gare",
-        "commune": "Saint-Jacques-des-Blats"
+        "commune": "Saint-Jacques-des-Blats",
+        "telephone": "04 71 47 06 00",
+        "email": "campingdesblats@gmail.com",
+        "website": "http://www.camping-des-blats.fr"
       }
     },
     {
@@ -1588,7 +1903,10 @@
       "properties": {
         "name": "La Sapinière",
         "adresse": "Le Bourg",
-        "commune": "Cros-de-Ronesque"
+        "commune": "Cros-de-Ronesque",
+        "telephone": "",
+        "email": "",
+        "website": ""
       }
     },
     {
@@ -1603,7 +1921,10 @@
       "properties": {
         "name": "Camping Vic Nature**",
         "adresse": "15 allée des Tilleuls",
-        "commune": "Vic-sur-Cère"
+        "commune": "Vic-sur-Cère",
+        "telephone": "04 71 47 51 75",
+        "email": "campingvicnature@gmail.com",
+        "website": "https://camping-vicnature.com"
       }
     },
     {
@@ -1618,7 +1939,10 @@
       "properties": {
         "name": "G.C.U",
         "adresse": "Salvanhac",
-        "commune": "Vic-sur-Cère"
+        "commune": "Vic-sur-Cère",
+        "telephone": "01 47 63 98 63",
+        "email": "gcu.rocher@wanadoo.fr",
+        "website": ""
       }
     },
     {
@@ -1633,7 +1957,10 @@
       "properties": {
         "name": "Le Clou",
         "adresse": "",
-        "commune": "Thiézac"
+        "commune": "Thiézac",
+        "telephone": "04 71 47 01 45",
+        "email": "info@leclou-france.fr",
+        "website": "http://www.leclou-france.fr"
       }
     },
     {
@@ -1648,7 +1975,10 @@
       "properties": {
         "name": "La Pommeraie",
         "adresse": "La Pommeraie",
-        "commune": "Vic-sur-Cère"
+        "commune": "Vic-sur-Cère",
+        "telephone": "04 71 47 54 18",
+        "email": "reception@camping-la-pommeraie.com",
+        "website": "http://www.camping-la-pommeraie.com"
       }
     },
     {
@@ -1663,7 +1993,10 @@
       "properties": {
         "name": "Camping du Val de Cère",
         "adresse": "Camping du Val de Cère",
-        "commune": "Polminhac"
+        "commune": "Polminhac",
+        "telephone": "04 71 62 53 42",
+        "email": "contact@campingduvaldecere.fr",
+        "website": "http://www.camping-polminhac.fr"
       }
     },
     {
@@ -1678,7 +2011,10 @@
       "properties": {
         "name": "La Sapinière- Aire de Camping Car",
         "adresse": "La Sapinière",
-        "commune": "Thiézac"
+        "commune": "Thiézac",
+        "telephone": "04 71 47 01 21",
+        "email": "mairie@thiezac.fr",
+        "website": ""
       }
     },
     {
@@ -1693,7 +2029,10 @@
       "properties": {
         "name": "Chambres d'hôtes \"le Paradis Vert\"",
         "adresse": "",
-        "commune": "Saint-Clément"
+        "commune": "Saint-Clément",
+        "telephone": "04 71 49 62 11",
+        "email": "",
+        "website": ""
       }
     },
     {
@@ -1708,7 +2047,10 @@
       "properties": {
         "name": "Domaine de Courbelimagne",
         "adresse": "Lieu-dit Courbelimagne",
-        "commune": "Raulhac"
+        "commune": "Raulhac",
+        "telephone": "04 71 49 58 25",
+        "email": "jean-louis.welsch@wanadoo.fr",
+        "website": ""
       }
     },
     {
@@ -1723,7 +2065,10 @@
       "properties": {
         "name": "La Maison de Jeanne",
         "adresse": "19 rue des Balcons",
-        "commune": "Thiézac"
+        "commune": "Thiézac",
+        "telephone": "04 71 47 04 82",
+        "email": "maisonchautard@orange.fr",
+        "website": "https://maisondejeanne.net"
       }
     },
     {
@@ -1738,7 +2083,10 @@
       "properties": {
         "name": "La Petite Escale du Pouget",
         "adresse": "5 Le Pouget",
-        "commune": "Pailherols"
+        "commune": "Pailherols",
+        "telephone": "04 71 62 79 10",
+        "email": "petiteescalepouget@orange.fr",
+        "website": "http://www.petiteescalepouget.fr"
       }
     },
     {
@@ -1753,7 +2101,10 @@
       "properties": {
         "name": "La Calsade",
         "adresse": "",
-        "commune": "Badailhac"
+        "commune": "Badailhac",
+        "telephone": "04 71 47 40 54",
+        "email": "jean.morziere@orange.fr",
+        "website": "http://www.la-calsade.com/"
       }
     },
     {
@@ -1768,7 +2119,10 @@
       "properties": {
         "name": "Kinopanorama",
         "adresse": "1 Rue de la Gare",
-        "commune": "Vic-sur-Cère"
+        "commune": "Vic-sur-Cère",
+        "telephone": "06 83 49 78 86",
+        "email": "bonnet.jane@orange.fr",
+        "website": ""
       }
     },
     {
@@ -1783,7 +2137,10 @@
       "properties": {
         "name": "Le Terrondou",
         "adresse": "2 avenue Emile Duclaux",
-        "commune": "Vic-sur-Cère"
+        "commune": "Vic-sur-Cère",
+        "telephone": "06 88 94 32 01",
+        "email": "terrondou.rosset@free.fr",
+        "website": "http://www.terrondou.com"
       }
     },
     {
@@ -1798,7 +2155,10 @@
       "properties": {
         "name": "La Roussière - Maison d'hôtes",
         "adresse": "La Roussière",
-        "commune": "Saint-Clément"
+        "commune": "Saint-Clément",
+        "telephone": "04 71 49 67 34",
+        "email": "info@laroussiere.fr",
+        "website": "http://www.laroussiere.fr"
       }
     },
     {
@@ -1813,7 +2173,10 @@
       "properties": {
         "name": "Château Ol Puech",
         "adresse": "25 Avenue de la Promenade",
-        "commune": "Vic-sur-Cère"
+        "commune": "Vic-sur-Cère",
+        "telephone": "06 61 75 52 85",
+        "email": "info@chateauolpuech.fr",
+        "website": "http://www.chateauolpuech.fr"
       }
     },
     {
@@ -1828,7 +2191,10 @@
       "properties": {
         "name": "Les Flocons Verts",
         "adresse": "13 chemin de la beauté",
-        "commune": "Pailherols"
+        "commune": "Pailherols",
+        "telephone": "04 71 47 56 67",
+        "email": "flocons.verts@orange.fr",
+        "website": "http://www.pailherols-flocons-verts.fr"
       }
     },
     {
@@ -1843,7 +2209,10 @@
       "properties": {
         "name": "Les Herbages",
         "adresse": "Le Bourg",
-        "commune": "Badailhac"
+        "commune": "Badailhac",
+        "telephone": "04 71 47 40 73",
+        "email": "badailhac.mairie@wanadoo.fr",
+        "website": "https://www.mairiedebadailhac.fr/"
       }
     },
     {
@@ -1858,7 +2227,10 @@
       "properties": {
         "name": "Hôtel Ibis",
         "adresse": "9 allée Georges Pompidou",
-        "commune": "Aurillac"
+        "commune": "Aurillac",
+        "telephone": "04 71 64 15 11",
+        "email": "h9121@accor.com",
+        "website": "http://www.all.com"
       }
     },
     {
@@ -1873,7 +2245,10 @@
       "properties": {
         "name": "La Thomasse",
         "adresse": "26  rue du Docteur Louis Mallet",
-        "commune": "Aurillac"
+        "commune": "Aurillac",
+        "telephone": "04 71 48 26 47",
+        "email": "accueil@hotel-la-thomasse.com",
+        "website": "http://www.hotel-la-thomasse.com"
       }
     },
     {
@@ -1888,7 +2263,10 @@
       "properties": {
         "name": "Le Lac des Graves",
         "adresse": "Jaulhac",
-        "commune": "Lascelle"
+        "commune": "Lascelle",
+        "telephone": "04 71 47 94 06",
+        "email": "contact@lacdesgraves.com",
+        "website": "http://www.lacdesgraves.com"
       }
     },
     {
@@ -1903,7 +2281,10 @@
       "properties": {
         "name": "Hôtel B&B Aurillac - Le Lioran",
         "adresse": "41  avenue Georges Pompidou",
-        "commune": "Aurillac"
+        "commune": "Aurillac",
+        "telephone": "04 71 62 09 01",
+        "email": "bb_4855@hotelbb.com",
+        "website": ""
       }
     },
     {
@@ -1918,7 +2299,10 @@
       "properties": {
         "name": "Hôtel Le Relax",
         "adresse": "113 avenue du Général Leclerc",
-        "commune": "Aurillac"
+        "commune": "Aurillac",
+        "telephone": "04 71 63 60 00",
+        "email": "hotelaurillaclerelax@outlook.com",
+        "website": "http://www.hotellerelax.fr"
       }
     },
     {
@@ -1933,7 +2317,10 @@
       "properties": {
         "name": "Château de Salles",
         "adresse": "Route du Château de Salles",
-        "commune": "Vézac"
+        "commune": "Vézac",
+        "telephone": "04 71 46 96 05",
+        "email": "info@chateausalles.com",
+        "website": "https://www.chateausalles.com"
       }
     },
     {
@@ -1948,7 +2335,10 @@
       "properties": {
         "name": "Aux Genêts d'Or",
         "adresse": "Le Bourg",
-        "commune": "Mandailles-Saint-Julien"
+        "commune": "Mandailles-Saint-Julien",
+        "telephone": "04 71 47 96 45",
+        "email": "hotelauxgenetsdor@orange.fr",
+        "website": "http://www.hotelauxgenetsdor.com"
       }
     },
     {
@@ -1963,7 +2353,10 @@
       "properties": {
         "name": "Hôtel des Carmes",
         "adresse": "20 rue des Carmes",
-        "commune": "Aurillac"
+        "commune": "Aurillac",
+        "telephone": "04 71 48 01 69",
+        "email": "",
+        "website": "http://www.hoteldescarmes.fr"
       }
     },
     {
@@ -1978,7 +2371,10 @@
       "properties": {
         "name": "Le Campanile",
         "adresse": "3  rue Louise Michel",
-        "commune": "Aurillac"
+        "commune": "Aurillac",
+        "telephone": "04 71 64 64 84",
+        "email": "aurillac@campanile.fr",
+        "website": ""
       }
     },
     {
@@ -1993,7 +2389,10 @@
       "properties": {
         "name": "The Originals Boutique, Grand Hôtel Saint Pierre",
         "adresse": "16 cours Monthyon",
-        "commune": "Aurillac"
+        "commune": "Aurillac",
+        "telephone": "04 71 48 00 24",
+        "email": "h1501@theoriginalshotels.com",
+        "website": "http://www.hotelsaintpierreaurillac.com"
       }
     },
     {
@@ -2008,7 +2407,10 @@
       "properties": {
         "name": "L'Enclos du Puy Mary",
         "adresse": "6 route des volcans",
-        "commune": "Mandailles-Saint-Julien"
+        "commune": "Mandailles-Saint-Julien",
+        "telephone": "06 76 69 21 65",
+        "email": "contact@enclos-puymary.fr",
+        "website": "http://www.enclos-puymary.fr"
       }
     },
     {
@@ -2023,7 +2425,10 @@
       "properties": {
         "name": "Les Tilleuls",
         "adresse": "Le  Bourg",
-        "commune": "Saint-Cirgues-de-Jordanne"
+        "commune": "Saint-Cirgues-de-Jordanne",
+        "telephone": "04 71 47 92 19",
+        "email": "info@hotellestilleuls.com",
+        "website": "https://www.hotellestilleuls.com"
       }
     },
     {
@@ -2038,7 +2443,10 @@
       "properties": {
         "name": "Le Prado",
         "adresse": "16 avenue de la Prade",
-        "commune": "Jussac"
+        "commune": "Jussac",
+        "telephone": "04 71 46 66 37",
+        "email": "leprado4@wanadoo.fr",
+        "website": "http://www.hotel-le-prado.com"
       }
     },
     {
@@ -2053,7 +2461,10 @@
       "properties": {
         "name": "La Bergerie",
         "adresse": "Le  Bourg",
-        "commune": "Vezels-Roussy"
+        "commune": "Vezels-Roussy",
+        "telephone": "04 71 49 42 90",
+        "email": "info@hotelrestaurantlabergerie.com",
+        "website": "http://www.hotelrestaurantlabergerie.com"
       }
     },
     {
@@ -2068,7 +2479,10 @@
       "properties": {
         "name": "Le Renaissance",
         "adresse": "13, Place du Square",
-        "commune": "Aurillac"
+        "commune": "Aurillac",
+        "telephone": "04 71 43 16 29",
+        "email": "info@hotel-le-renaissance.fr",
+        "website": "http://www.hotel-le-renaissance.fr"
       }
     },
     {
@@ -2083,7 +2497,10 @@
       "properties": {
         "name": "Grand Hôtel de Bordeaux",
         "adresse": "2  avenue de la République",
-        "commune": "Aurillac"
+        "commune": "Aurillac",
+        "telephone": "04 71 48 01 84",
+        "email": "contact@hotel-de-bordeaux.fr",
+        "website": "http://www.hotel-de-bordeaux.fr"
       }
     },
     {
@@ -2098,7 +2515,10 @@
       "properties": {
         "name": "Square Hôtel",
         "adresse": "15 Place du Square",
-        "commune": "Aurillac"
+        "commune": "Aurillac",
+        "telephone": "04 71 48 24 72",
+        "email": "contact@hotel-le-square.com",
+        "website": "http://hotel-le-square.com"
       }
     },
     {
@@ -2113,7 +2533,10 @@
       "properties": {
         "name": "Hôtel du Lac",
         "adresse": "Le  Bourg",
-        "commune": "Lacapelle-Viescamp"
+        "commune": "Lacapelle-Viescamp",
+        "telephone": "04 71 46 31 57",
+        "email": "hoteldulac.15150@gmail.com",
+        "website": "http://www.hoteldulac-cantal.com"
       }
     },
     {
@@ -2128,7 +2551,10 @@
       "properties": {
         "name": "The Originals Hotel Access Aeroport",
         "adresse": "141 avenue de Conthe",
-        "commune": "Aurillac"
+        "commune": "Aurillac",
+        "telephone": "04 71 63 96 39",
+        "email": "H1505@theoriginalshotels.com",
+        "website": "http://www.theoriginalshotels.com"
       }
     },
     {
@@ -2143,7 +2569,10 @@
       "properties": {
         "name": "Château de Sédaiges",
         "adresse": "3 Place du Marronier",
-        "commune": "Marmanhac"
+        "commune": "Marmanhac",
+        "telephone": "04 71 47 30 01",
+        "email": "",
+        "website": "http://www.chateausedaiges.com"
       }
     },
     {
@@ -2158,7 +2587,10 @@
       "properties": {
         "name": "\"La Pradelle\"",
         "adresse": "",
-        "commune": "Saint-Simon"
+        "commune": "Saint-Simon",
+        "telephone": "04 71 43 62 03",
+        "email": "m.massini@orange.fr",
+        "website": "http://www.lapradelle-cantal.com"
       }
     },
     {
@@ -2173,7 +2605,10 @@
       "properties": {
         "name": "Une Chambre en Ville",
         "adresse": "20 rue François Maynard",
-        "commune": "Aurillac"
+        "commune": "Aurillac",
+        "telephone": "04 71 63 79 41",
+        "email": "rimygaillard@free.fr",
+        "website": ""
       }
     },
     {
@@ -2188,7 +2623,10 @@
       "properties": {
         "name": "\"Chez Margaret\"",
         "adresse": "16,rue Marie Curie",
-        "commune": "Marmanhac"
+        "commune": "Marmanhac",
+        "telephone": "04 71 43 76 80",
+        "email": "chezmargaret15@gmail.com",
+        "website": ""
       }
     },
     {
@@ -2203,7 +2641,10 @@
       "properties": {
         "name": "Chambre d'Hôtes de Lageneste",
         "adresse": "",
-        "commune": "Lascelle"
+        "commune": "Lascelle",
+        "telephone": "04 71 47 95 19  06 81 11 76 39",
+        "email": "",
+        "website": ""
       }
     },
     {
@@ -2218,7 +2659,10 @@
       "properties": {
         "name": "Château de la Moissetie",
         "adresse": "",
-        "commune": "Aurillac"
+        "commune": "Aurillac",
+        "telephone": "06 07 16 24 38",
+        "email": "eric-rinaudo@orange.fr",
+        "website": ""
       }
     },
     {
@@ -2233,7 +2677,10 @@
       "properties": {
         "name": "\"Chez Mounette\"",
         "adresse": "20 Chemin du Bousquet",
-        "commune": "Arpajon-sur-Cère"
+        "commune": "Arpajon-sur-Cère",
+        "telephone": "04 71 63 73 10",
+        "email": "cantuel.monique@gmail.com",
+        "website": ""
       }
     },
     {
@@ -2248,7 +2695,10 @@
       "properties": {
         "name": "Ferme de Broize",
         "adresse": "",
-        "commune": "Marmanhac"
+        "commune": "Marmanhac",
+        "telephone": "",
+        "email": "chambresbroize@gmail.com",
+        "website": "http://www.broize.com"
       }
     },
     {
@@ -2263,7 +2713,10 @@
       "properties": {
         "name": "L'ERMITAGE",
         "adresse": "20 rue des Dames",
-        "commune": "Aurillac"
+        "commune": "Aurillac",
+        "telephone": "04 71 62 05 99",
+        "email": "lermitage15@orange.fr",
+        "website": ""
       }
     },
     {
@@ -2278,7 +2731,10 @@
       "properties": {
         "name": "Le Cambon",
         "adresse": "",
-        "commune": "Arpajon-sur-Cère"
+        "commune": "Arpajon-sur-Cère",
+        "telephone": "06 36 67 65 49",
+        "email": "f.daoulas@gmail.com",
+        "website": "https://www.le-cambon.com"
       }
     },
     {
@@ -2293,7 +2749,10 @@
       "properties": {
         "name": "CHRISTIANE LAMIOT",
         "adresse": "381 Impasse de la Granière",
-        "commune": "Giou-de-Mamou"
+        "commune": "Giou-de-Mamou",
+        "telephone": "06 43 05 05 15",
+        "email": "lagranierechristiane@orange.fr",
+        "website": "http://www.chambresdhotes-aurillac.com"
       }
     },
     {
@@ -2308,7 +2767,10 @@
       "properties": {
         "name": "Chambre d'hôtes  \"La Maison\"",
         "adresse": "",
-        "commune": "Giou-de-Mamou"
+        "commune": "Giou-de-Mamou",
+        "telephone": "04 71 64 51 55",
+        "email": "la-maison@sfr.fr",
+        "website": "http://www.la-maisongiou.fr"
       }
     },
     {
@@ -2323,7 +2785,10 @@
       "properties": {
         "name": "\"Les 4 Saisons\"",
         "adresse": "5 rue de la remise",
-        "commune": "Mandailles-Saint-Julien"
+        "commune": "Mandailles-Saint-Julien",
+        "telephone": "04 71 47 93 81",
+        "email": "vert.azur@orange.fr",
+        "website": "https://www.gite-vertazur.com/"
       }
     },
     {
@@ -2338,7 +2803,10 @@
       "properties": {
         "name": "Chambres et Table d'Hôtes de Massigoux",
         "adresse": "",
-        "commune": "Aurillac"
+        "commune": "Aurillac",
+        "telephone": "06 82 90 12 68",
+        "email": "castanier.laurence@gmail.com",
+        "website": "https://www.massigoux.com"
       }
     },
     {
@@ -2353,7 +2821,10 @@
       "properties": {
         "name": "Gîte de groupe Chantarisa",
         "adresse": "4, Charreire de la Font",
-        "commune": "Coltines"
+        "commune": "Coltines",
+        "telephone": "04 71 73 25 83",
+        "email": "chantarisa@orange.fr",
+        "website": "http://www.chantarisa.com"
       }
     },
     {
@@ -2368,7 +2839,10 @@
       "properties": {
         "name": "Gîte de groupe de l'auberge Les Volpilières",
         "adresse": "Trailus",
-        "commune": "Ruynes-en-Margeride"
+        "commune": "Ruynes-en-Margeride",
+        "telephone": "04 71 23 48 31",
+        "email": "lombard.jean-luc@wanadoo.fr",
+        "website": "http://www.lesvolpilieres-gite.fr"
       }
     },
     {
@@ -2383,7 +2857,10 @@
       "properties": {
         "name": "Gîte de groupe Les Aygues",
         "adresse": "4, rue Gustave Eiffel - Léon Boyer",
-        "commune": "Ruynes-en-Margeride"
+        "commune": "Ruynes-en-Margeride",
+        "telephone": "04 71 73 25 83",
+        "email": "chantarisa@orange.fr",
+        "website": "http://www.chantarisa.com"
       }
     },
     {
@@ -2398,7 +2875,10 @@
       "properties": {
         "name": "Gite d'étape et de séjour de Laurie",
         "adresse": "La Prade",
-        "commune": "Laurie"
+        "commune": "Laurie",
+        "telephone": "06 21 60 03 84",
+        "email": "laurie36@orange.fr",
+        "website": ""
       }
     },
     {
@@ -2413,7 +2893,10 @@
       "properties": {
         "name": "Ferme Le Ruisselet - gîte de groupes",
         "adresse": "Mazérat - 23, Rue de Ribater",
-        "commune": "Roffiac"
+        "commune": "Roffiac",
+        "telephone": "04 71 60 11 33",
+        "email": "le-ruisselet@wanadoo.fr",
+        "website": "http://www.ferme-le-ruisselet.com"
       }
     },
     {
@@ -2428,7 +2911,10 @@
       "properties": {
         "name": "Chez Denise - Chambres et table d'hôtes",
         "adresse": "Esclauzet",
-        "commune": "Lieutadès"
+        "commune": "Lieutadès",
+        "telephone": "06 12 28 14 89",
+        "email": "denise.gilibert-devors@orange.fr",
+        "website": "http://chambres-dhote-chez-denise.wifeo.com"
       }
     },
     {
@@ -2443,7 +2929,10 @@
       "properties": {
         "name": "L'Oustar de Tougnini  - Chambres d'hôtes",
         "adresse": "Trailus 1 le Mût",
-        "commune": "Ruynes-en-Margeride"
+        "commune": "Ruynes-en-Margeride",
+        "telephone": "04 71 23 46 42",
+        "email": "lucbony15@orange.fr",
+        "website": ""
       }
     },
     {
@@ -2458,7 +2947,10 @@
       "properties": {
         "name": "La Frêneraie - Chambres d'hôtes",
         "adresse": "6 rue de Ribeyrol",
-        "commune": "Paulhac"
+        "commune": "Paulhac",
+        "telephone": "04 71 73 09 38",
+        "email": "contact@chambre-hote-lafreneraie.com",
+        "website": "http://www.chambre-hote-lafreneraie.com"
       }
     },
     {
@@ -2473,7 +2965,10 @@
       "properties": {
         "name": "Auberge de l'Epie - Chambres d'Hôtes et auberge",
         "adresse": "La Sagnette",
-        "commune": "Paulhac"
+        "commune": "Paulhac",
+        "telephone": "04 71 20 65 22",
+        "email": "maryline.legrand75@orange.fr",
+        "website": "https://www.aubergedelepie.fr/"
       }
     },
     {
@@ -2488,7 +2983,10 @@
       "properties": {
         "name": "Auberge de l'Astrassadou - Chambres d'Hôtes et auberge",
         "adresse": "6, rue de la Laiterie",
-        "commune": "Rézentières"
+        "commune": "Rézentières",
+        "telephone": "04 71 20 10 18",
+        "email": "auberge@astrassadou.fr",
+        "website": "http://www.astrassadou.fr"
       }
     },
     {
@@ -2503,7 +3001,10 @@
       "properties": {
         "name": "ARTIS Louis et Elise - \"Les Cascades\" - Chambres et table d'hôte",
         "adresse": "Lustrande",
-        "commune": "Brezons"
+        "commune": "Brezons",
+        "telephone": "04 71 73 41 51",
+        "email": "loulou.artis@orange.fr",
+        "website": ""
       }
     },
     {
@@ -2518,7 +3019,10 @@
       "properties": {
         "name": "La Maison d'Adélaïde - Chambres d'Hôtes",
         "adresse": "12, rue de la Rollandie",
-        "commune": "Saint-Flour"
+        "commune": "Saint-Flour",
+        "telephone": "04 71 73 96 50",
+        "email": "contact@maisonadelaide.com",
+        "website": "http://www.maisonadelaide.com"
       }
     },
     {
@@ -2533,7 +3037,10 @@
       "properties": {
         "name": "Camping municipal de la Sianne",
         "adresse": "Le bourg",
-        "commune": "Auriac-l'Église"
+        "commune": "Auriac-l'Église",
+        "telephone": "04 71 73 91 28",
+        "email": "mairie.auriac.leglise@wanadoo.fr",
+        "website": ""
       }
     },
     {
@@ -2548,7 +3055,10 @@
       "properties": {
         "name": "Le Petit Bois camping",
         "adresse": "3, rue Gustave Eiffel - Léon Boyer",
-        "commune": "Ruynes-en-Margeride"
+        "commune": "Ruynes-en-Margeride",
+        "telephone": "04 71 23 93 86",
+        "email": "campinglepetitbois15@gmail.com",
+        "website": "https://campinglepetitboiscantal.fr/"
       }
     },
     {
@@ -2563,7 +3073,10 @@
       "properties": {
         "name": "Camping de mon Village - Camping** Car Park Les Orgues",
         "adresse": "17, avenue du Dr Mallet",
-        "commune": "Saint-Flour"
+        "commune": "Saint-Flour",
+        "telephone": "01 83 64 69 21",
+        "email": "",
+        "website": "https://bit.ly/camping-lesorgues"
       }
     },
     {
@@ -2578,7 +3091,10 @@
       "properties": {
         "name": "Camping municipal de Laurie",
         "adresse": "La Prade",
-        "commune": "Laurie"
+        "commune": "Laurie",
+        "telephone": "06 21 60 03 84",
+        "email": "laurie36@orange.fr",
+        "website": ""
       }
     },
     {
@@ -2593,7 +3109,10 @@
       "properties": {
         "name": "Camping de Saint-Just - Only Camp",
         "adresse": "9 rue du 22 juin 1944",
-        "commune": "Val d'Arcomie"
+        "commune": "Val d'Arcomie",
+        "telephone": "04 71 73 70 11",
+        "email": "campingdesaintjust@onlycamp.fr",
+        "website": "https://www.onlycamp.fr/"
       }
     },
     {
@@ -2608,7 +3127,10 @@
       "properties": {
         "name": "Camping municipal de Saint-Martin-sous-Vigouroux",
         "adresse": "Le bourg",
-        "commune": "Saint-Martin-sous-Vigouroux"
+        "commune": "Saint-Martin-sous-Vigouroux",
+        "telephone": "04 71 23 33 16",
+        "email": "mairie.stmartinvigouroux@orange.fr",
+        "website": ""
       }
     },
     {
@@ -2623,7 +3145,10 @@
       "properties": {
         "name": "Camping municipal de Faverolles",
         "adresse": "Camping de Faverolles",
-        "commune": "Val d'Arcomie"
+        "commune": "Val d'Arcomie",
+        "telephone": "04 71 73 70 11",
+        "email": "service.tourisme@valdarcomie.fr",
+        "website": "http://www.valdarcomie.fr"
       }
     },
     {
@@ -2638,7 +3163,10 @@
       "properties": {
         "name": "Ferme Le Ruisselet",
         "adresse": "Mazérat - 23, Rue de Ribater",
-        "commune": "Roffiac"
+        "commune": "Roffiac",
+        "telephone": "04 71 60 11 33",
+        "email": "le-ruisselet@wanadoo.fr",
+        "website": "http://www.ferme-le-ruisselet.com"
       }
     },
     {
@@ -2653,7 +3181,10 @@
       "properties": {
         "name": "Camping \"mon village de Massiac\"",
         "adresse": "Avenue de Courcelles",
-        "commune": "Massiac"
+        "commune": "Massiac",
+        "telephone": "01 83 64 69 21",
+        "email": "contact@campingcarpark.com",
+        "website": "https://www.campingcarpark.com/fr_FR/recherche/aires/liste?query=massiac#0"
       }
     },
     {
@@ -2668,7 +3199,10 @@
       "properties": {
         "name": "Hôtel-restaurant Les Voyageurs",
         "adresse": "Le bourg",
-        "commune": "Ferrières-Saint-Mary"
+        "commune": "Ferrières-Saint-Mary",
+        "telephone": "04 71 20 60 24",
+        "email": "baptista.alex63@yahoo.fr",
+        "website": ""
       }
     },
     {
@@ -2683,7 +3217,10 @@
       "properties": {
         "name": "Brit Hotel",
         "adresse": "Route de Clermont-Ferrand",
-        "commune": "Saint-Flour"
+        "commune": "Saint-Flour",
+        "telephone": "04 71 60 55 55",
+        "email": "saint-flour@brithotel.fr",
+        "website": "https://saint-flour.brithotel.fr/"
       }
     },
     {
@@ -2698,7 +3235,10 @@
       "properties": {
         "name": "Hôtel du Nord",
         "adresse": "18, rue des Lacs",
-        "commune": "Saint-Flour"
+        "commune": "Saint-Flour",
+        "telephone": "04 71 60 28 00",
+        "email": "hoteldunordsf@gmail.com",
+        "website": "https://www.hoteldunord-saintflour.com/"
       }
     },
     {
@@ -2713,7 +3253,10 @@
       "properties": {
         "name": "Garabit Hôtel",
         "adresse": "Route du Viaduc - GARABIT",
-        "commune": "Anglards-de-Saint-Flour"
+        "commune": "Anglards-de-Saint-Flour",
+        "telephone": "07 57 94 40 60",
+        "email": "info@fanihotels.com",
+        "website": "https://www.fanihotels.com"
       }
     },
     {
@@ -2728,7 +3271,10 @@
       "properties": {
         "name": "Hôtel La Colombière",
         "adresse": "4 route de Clermont-Ferrand",
-        "commune": "Massiac"
+        "commune": "Massiac",
+        "telephone": "04 71 23 18 50",
+        "email": "contact@hotel-lacolombiere.com",
+        "website": "http://www.hotel-lacolombiere.com"
       }
     },
     {
@@ -2743,7 +3289,10 @@
       "properties": {
         "name": "Le Panoramic Garabit",
         "adresse": "2 route du Viaduc - Garabit",
-        "commune": "Anglards-de-Saint-Flour"
+        "commune": "Anglards-de-Saint-Flour",
+        "telephone": "04 15 54 24 66",
+        "email": "reservation@lepanoramicgarabit.com",
+        "website": ""
       }
     },
     {
@@ -2758,7 +3307,10 @@
       "properties": {
         "name": "Hôtel l'Etape",
         "adresse": "18 avenue de la République",
-        "commune": "Saint-Flour"
+        "commune": "Saint-Flour",
+        "telephone": "04 71 60 13 03",
+        "email": "info@hotel-etape.com",
+        "website": "http://www.hotel-etape.com"
       }
     },
     {
@@ -2773,7 +3325,10 @@
       "properties": {
         "name": "Hôtel-Restaurant de la Poste",
         "adresse": "7, rue du 19 Mars 1962",
-        "commune": "Saint-Martin-sous-Vigouroux"
+        "commune": "Saint-Martin-sous-Vigouroux",
+        "telephone": "04 71 23 33 61",
+        "email": "info@hoteldelaposte-cantal.com",
+        "website": "http://www.hoteldelaposte-cantal.com"
       }
     },
     {
@@ -2788,7 +3343,10 @@
       "properties": {
         "name": "Auberge de l'Allagnonette",
         "adresse": "Le bourg",
-        "commune": "Saint-Poncy"
+        "commune": "Saint-Poncy",
+        "telephone": "04 71 23 12 85",
+        "email": "info@auberge-allagnonette.com",
+        "website": "http://www.auberge-allagnonette.com"
       }
     },
     {
@@ -2803,7 +3361,10 @@
       "properties": {
         "name": "Hotel du Midi",
         "adresse": "5, Avenue Georges Pompidou",
-        "commune": "Pierrefort"
+        "commune": "Pierrefort",
+        "telephone": "04 71 23 30 20",
+        "email": "hoteldumidi.pierrefort@orange.fr",
+        "website": "http://www.hoteldumidi-pierrefort.com"
       }
     },
     {
@@ -2818,7 +3379,10 @@
       "properties": {
         "name": "Hôtel et Spa Le Bout du Monde",
         "adresse": "3, Rue du Moulin de Saint-Michel",
-        "commune": "Saint-Georges"
+        "commune": "Saint-Georges",
+        "telephone": "04 71 60 15 84",
+        "email": "info@hotel-leboutdumonde.com",
+        "website": "http://www.hotel-leboutdumonde.com"
       }
     },
     {
@@ -2833,7 +3397,10 @@
       "properties": {
         "name": "Hôtel des Messageries",
         "adresse": "23, avenue du Général de Gaulle",
-        "commune": "Saint-Flour"
+        "commune": "Saint-Flour",
+        "telephone": "04 71 60 11 36",
+        "email": "info@hotel-messageries.com",
+        "website": "http://www.saintflourtraiteur.fr"
       }
     },
     {
@@ -2848,7 +3415,10 @@
       "properties": {
         "name": "Hôtel Cantal Cottages",
         "adresse": "40, Le Crozatier",
-        "commune": "Saint-Georges"
+        "commune": "Saint-Georges",
+        "telephone": "04 71 20 29 25",
+        "email": "hotelcantalcottages@orange.fr",
+        "website": "http://www.hotel-cantal-cottages.com"
       }
     },
     {
@@ -2863,7 +3433,10 @@
       "properties": {
         "name": "Hôtel Le Relais des Sites",
         "adresse": "Le Bourg - Faverolles",
-        "commune": "Val d'Arcomie"
+        "commune": "Val d'Arcomie",
+        "telephone": "04 71 23 47 80",
+        "email": "lerelaisdessites@gmail.com",
+        "website": ""
       }
     },
     {
@@ -2878,7 +3451,10 @@
       "properties": {
         "name": "Hôtel des Roches",
         "adresse": "7-8, Place d'Armes",
-        "commune": "Saint-Flour"
+        "commune": "Saint-Flour",
+        "telephone": "04 71 60 09 70",
+        "email": "hotel_des_roches@yahoo.fr",
+        "website": "http://www.hoteldesroches.eu"
       }
     },
     {
@@ -2893,7 +3469,10 @@
       "properties": {
         "name": "Hôtel La Méridienne",
         "adresse": "",
-        "commune": "Anglards-de-Saint-Flour"
+        "commune": "Anglards-de-Saint-Flour",
+        "telephone": "04 71 23 40 53",
+        "email": "info@hoteldelameridienne.com",
+        "website": "http://www.hoteldelameridienne.com"
       }
     },
     {
@@ -2908,7 +3487,10 @@
       "properties": {
         "name": "La Fontaine de Grégoire - Chambres d'hôtes",
         "adresse": "2 rue de la Croix de Grégoire",
-        "commune": "Saint-Urcize"
+        "commune": "Saint-Urcize",
+        "telephone": "04 71 23 20 69",
+        "email": "fontainedegregoire@gmail.com",
+        "website": "http://www.fontainedegregoire.com"
       }
     },
     {
@@ -2923,7 +3505,10 @@
       "properties": {
         "name": "Chalmeton Agnès - Chambres d'hôtes",
         "adresse": "La Fouilhouse",
-        "commune": "Chaudes-Aigues"
+        "commune": "Chaudes-Aigues",
+        "telephone": "04 71 23 58 15",
+        "email": "agneschalmeton15@gmail.com",
+        "website": ""
       }
     },
     {
@@ -2938,7 +3523,10 @@
       "properties": {
         "name": "Guilbot Marinette - Chambres et table d'hôtes",
         "adresse": "3 rue de la Fontaine",
-        "commune": "Fridefont"
+        "commune": "Fridefont",
+        "telephone": "04 71 23 51 72",
+        "email": "michel.guilbot804@orange.fr",
+        "website": "http://www.ferme-guilbot.fr"
       }
     },
     {
@@ -2953,7 +3541,10 @@
       "properties": {
         "name": "Chassang Céline - Chambres d'hôtes",
         "adresse": "Le belvédère de Mallet",
-        "commune": "Fridefont"
+        "commune": "Fridefont",
+        "telephone": "04 71 23 57 00",
+        "email": "chassangceline@outlook.fr",
+        "website": "http://www.belvederedemallet.fr"
       }
     },
     {
@@ -2968,7 +3559,10 @@
       "properties": {
         "name": "La Maison de Gilbert - Chambres d'Hôtes",
         "adresse": "Lieu dit La Valette",
-        "commune": "Chaudes-Aigues"
+        "commune": "Chaudes-Aigues",
+        "telephone": "06 60 07 27 51",
+        "email": "rocherbeat@gmail.com",
+        "website": "http://lamaisondegilbert.strikingly.com"
       }
     },
     {
@@ -2983,7 +3577,10 @@
       "properties": {
         "name": "La Ferme des Deux Vallées - Chambres d'hôtes",
         "adresse": "4 rue des Forgerons",
-        "commune": "Fridefont"
+        "commune": "Fridefont",
+        "telephone": "06 07 88 19 04",
+        "email": "chassanyjosette@gmail.com",
+        "website": "http://www.deuxvallees.com"
       }
     },
     {
@@ -2998,7 +3595,10 @@
       "properties": {
         "name": "Hôtel du Ban",
         "adresse": "27 avenue du Président Pompidou",
-        "commune": "Chaudes-Aigues"
+        "commune": "Chaudes-Aigues",
+        "telephone": "04 71 23 51 06",
+        "email": "info@caleden.com",
+        "website": "http://www.caleden.com"
       }
     }
   ]
