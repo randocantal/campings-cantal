@@ -1,0 +1,81 @@
+name: Mise à jour GeoJSON
+
+on:
+  schedule:
+    - cron: '0 3 * * *' # toutes les nuits à 3h
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Générer le GeoJSON
+        run: |
+          cat << 'EOF' > convert.js
+          const https = require("https");
+          const fs = require("fs");
+
+          function fetchPage(first, allResults, callback) {
+            const query = JSON.stringify({
+              projetId: parseInt(process.env.APIDAE_PROJET_ID),
+              apiKey: process.env.APIDAE_API_KEY,
+              selectionIds: [188585, 188586, 188587, 188589, 188593, 188594],
+              responseFields: ["id","nom","localisation.adresse","localisation.geolocalisation.geoJson","informations.moyensCommunication","illustrations"],
+              locales: ["fr"],
+              count: 200,
+              first: first
+            });
+            const url = "https://api.apidae-tourisme.com/api/v002/recherche/list-objets-touristiques?query=" + encodeURIComponent(query);
+            https.get(url, (res) => {
+              let data = "";
+              res.on("data", chunk => data += chunk);
+              res.on("end", () => {
+                const json = JSON.parse(data);
+                const objets = json.objetsTouristiques || [];
+                allResults.push(...objets);
+                if (objets.length === 200) fetchPage(first + 200, allResults, callback);
+                else callback(allResults);
+              });
+            });
+          }
+
+          fetchPage(0, [], (allResults) => {
+            const features = allResults
+              .filter(o => o?.localisation?.geolocalisation?.geoJson)
+              .map(o => {
+                const comms = o.informations?.moyensCommunication || [];
+                return {
+                  type: "Feature",
+                  geometry: o.localisation.geolocalisation.geoJson,
+                  properties: {
+                    name: o.nom?.libelleFr || "Sans nom",
+                    adresse: o.localisation?.adresse?.adresse1 || "",
+                    commune: o.localisation?.adresse?.commune?.nom || "",
+                    telephone: comms.find(c => c.type?.libelleFr === "Téléphone")?.coordonnees?.fr || "",
+                    email: comms.find(c => c.type?.libelleFr === "Mél")?.coordonnees?.fr || "",
+                    website: comms.find(c => c.type?.libelleFr === "Site web (URL)")?.coordonnees?.fr || "",
+                    image: o.illustrations?.[0]?.traductionFichiers?.[0]?.url || ""
+                  }
+                };
+              });
+            fs.writeFileSync("hebergements_nuitee_cantal.geojson", JSON.stringify({type: "FeatureCollection", features}, null, 2));
+            console.log(features.length + " hébergements exportés !");
+          });
+          EOF
+          node convert.js
+        env:
+          APIDAE_PROJET_ID: ${{ secrets.APIDAE_PROJET_ID }}
+          APIDAE_API_KEY: ${{ secrets.APIDAE_API_KEY }}
+
+      - name: Commit et push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add hebergements_nuitee_cantal.geojson
+          git commit -m "Mise à jour automatique" || echo "Rien à commiter"
+          git push
